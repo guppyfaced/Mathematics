@@ -8,9 +8,7 @@ Pip the requirements and they should run in bash.
 
 ## Authors
 
-* **Guppyfaced** - *Initial work* - [PurpleBooth](https://github.com/guppyfaced)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Guppy_face** - *Initial work* - [Guppyfaced](https://github.com/guppyfaced)
 
 ## License
 
